@@ -9,7 +9,7 @@ Linux and MacOS. *tim* can be built using GCC:
     gcc main.c -o tim
     
 # How to use *tim*
-*tim* can either be run to either connect to another instance or listen for an incoming connection. For instance, a 
+*tim* can either be run to connect to another user or listen for an incoming connection. For instance, a 
 user attempting to connect to another user at the IP address 42.91.6.1 on port 49094 would run *tim* using the 
 following arguments :
 
