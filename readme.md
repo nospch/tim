@@ -1,6 +1,6 @@
 # *tim* (Terminal Instant Messenger)
 ## Rudimentary P2P Instant Messenger for the *NIX Terminal
-Written for the article [Socket Programming in C Part II: Writing an Instant Messenger for the Terminal](https://www.nospecialcharacters.com/pages/posts/socket-programming-in-c-part-ii)
+Written for the article [Socket Programming in C Part II: Writing an Instant Messenger for the Terminal](https://www.nospecialcharacters.com/pages/posts/socket-programming-in-c-part-ii).
 
 # How to build *tim*
 *tim* is written using the BSD sockets API and works (as so far as it's been tested) on 
